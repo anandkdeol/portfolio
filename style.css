@@ -1,0 +1,22 @@
+body {
+    background-color: #A7C7E7;
+    
+}
+
+img {
+    width: 200px;
+}
+label{
+    font-size: 30px;
+}
+.header{
+    background-color: rgba(134, 118, 214, 0.779); 
+    display: flex;
+    justify-content: space-between;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{ display: flex; justify-content: flex-end; }
